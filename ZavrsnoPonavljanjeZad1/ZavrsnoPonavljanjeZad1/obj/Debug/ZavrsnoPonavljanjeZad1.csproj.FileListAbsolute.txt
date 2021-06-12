@@ -1,0 +1,7 @@
+C:\Users\Gordana\source\repos\ZavrsnoPonavljanjeZad1\ZavrsnoPonavljanjeZad1\bin\Debug\ZavrsnoPonavljanjeZad1.exe.config
+C:\Users\Gordana\source\repos\ZavrsnoPonavljanjeZad1\ZavrsnoPonavljanjeZad1\bin\Debug\ZavrsnoPonavljanjeZad1.exe
+C:\Users\Gordana\source\repos\ZavrsnoPonavljanjeZad1\ZavrsnoPonavljanjeZad1\bin\Debug\ZavrsnoPonavljanjeZad1.pdb
+C:\Users\Gordana\source\repos\ZavrsnoPonavljanjeZad1\ZavrsnoPonavljanjeZad1\obj\Debug\ZavrsnoPonavljanjeZad1.csprojAssemblyReference.cache
+C:\Users\Gordana\source\repos\ZavrsnoPonavljanjeZad1\ZavrsnoPonavljanjeZad1\obj\Debug\ZavrsnoPonavljanjeZad1.csproj.CoreCompileInputs.cache
+C:\Users\Gordana\source\repos\ZavrsnoPonavljanjeZad1\ZavrsnoPonavljanjeZad1\obj\Debug\ZavrsnoPonavljanjeZad1.exe
+C:\Users\Gordana\source\repos\ZavrsnoPonavljanjeZad1\ZavrsnoPonavljanjeZad1\obj\Debug\ZavrsnoPonavljanjeZad1.pdb
